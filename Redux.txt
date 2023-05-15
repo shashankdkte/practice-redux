@@ -1,0 +1,4 @@
+            Javascript Application  dispatch 
+                                        
+Redux Store                         Action 
+                 Reducer
